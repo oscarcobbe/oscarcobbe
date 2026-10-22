@@ -2,7 +2,7 @@
 
 Founder of [FourWinds Digital](https://fourwindsdigital.com). I build websites, booking systems, CRMs and Google Ads setups for Irish small businesses, and run them once they are live. I study Business and Management at TU Dublin, and I'm on exchange at Southern Utah University for 2026–27.
 
-**[Portfolio](https://oscar-cobbe.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/oscarcobbe) · oscar@fourwindsdigital.com
+**[Portfolio](https://oscarcobbe.fourwindsdigital.com)** · [LinkedIn](https://www.linkedin.com/in/oscarcobbe) · oscar@fourwindsdigital.com
 
 ## What I've built
 
