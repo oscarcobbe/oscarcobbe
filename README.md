@@ -4,6 +4,8 @@ Founder of [FourWinds Digital](https://fourwindsdigital.com). I build websites, 
 
 **[Portfolio and case studies](https://oscarcobbe.fourwindsdigital.com)** · [LinkedIn](https://www.linkedin.com/in/oscarcobbe) · oscar@fourwindsdigital.com
 
+[77 films](https://oscarcobbe.fourwindsdigital.com/films) · [93 articles and guides](https://oscarcobbe.fourwindsdigital.com/writing) · [Brochures, decks and sample reports](https://oscarcobbe.fourwindsdigital.com/documents)
+
 ## What I've built
 
 Everything here is live and used by real businesses.
@@ -11,7 +13,7 @@ Everything here is live and used by real businesses.
 | Project | What it does | Live |
 |---|---|---|
 | **SmartCare Living** | Website for a fall-detection installer, with a six-question setup finder, online booking into the owner's Google Calendar, and a Family Advice Centre of eight guides. Enquiry alerts by email and SMS, consent-aware Google Ads and GA4 tracking, and 24 health checks every 15 minutes. | [smartcareliving.ie](https://www.smartcareliving.ie) |
-| **Smart Space** | Website, shop and checkout for a smart doorbell and camera installer. The owner has a CRM for enquiries and orders, and approves every email before it reaches a customer. Its Google Ads campaigns show, for each enquiry, whether Google counted it. | [smart-space.ie](https://smart-space.ie) |
+| **Smart Space** | A smart doorbell and camera installer. I took over its website in April 2026 and replaced the Shopify checkout with Stripe. The owner now has a CRM for enquiries and orders, and approves every email before it reaches a customer. Its Google Ads campaigns show, for each enquiry, whether Google counted it. | [smart-space.ie](https://smart-space.ie) |
 | **FourWinds Digital** | My own company's website, with a free compliance check. Its client portal holds each client's compliance record, reporting, automations and an outreach CRM. Scheduled jobs scan client websites and email security, and report back. | [fourwindsdigital.com](https://fourwindsdigital.com) |
 | **Salon booking platform** | Online booking and back office for hair and beauty salons: diary, staff, services, prices, gift vouchers and a till. Each salon gets its own branded site on the same platform. | [Sample salon](https://salon-platform-five.vercel.app/?app=c32837d553595636) |
 | **Wicklow Pilates Studio** | Website for a reformer Pilates studio, with the class timetable and specialist programmes. Built for phones first. | [wicklowpilatesstudio.ie](https://wicklowpilatesstudio.ie) |
